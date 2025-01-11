@@ -1,0 +1,70 @@
+@import "../../styles/main.scss";
+
+.catalog {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    &__title {
+        @include commonTitle;
+    }
+
+    &__content {
+        padding: 12px;
+        width: 100%;
+        max-width: 1200px;
+    }
+
+    &__list {
+        list-style: none;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 12px;
+        @include onMobile {
+            grid-template-columns: repeat(2, 1fr);
+        }
+    }
+
+    &__card {
+        border: 1px solid $dark;
+        border-radius: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        row-gap: 10px;
+        padding: 20px;
+        cursor: pointer;
+
+        &-img {
+            width: 100%;
+            border-radius: 50%;
+            padding: 20px;
+            border: 2px solid $dark;
+            transition: border-radius 0.3s, transform 0.3s ease 0.3s;
+
+            &:hover {
+                border-radius: 6px;
+                transform: scale(1.1);
+            }
+        }
+
+        &-info {
+            margin-top: 10px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            row-gap: 10px;
+        }
+
+        &-title {
+            font-size: 1.5rem;
+            color: $dark;
+        }
+
+        &-price {
+            color: $dark;
+        }
+    }
+}
