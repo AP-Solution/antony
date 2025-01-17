@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/antony/static/css/main.a8d0edb5.css",
-    "main.js": "/antony/static/js/main.1e0b1ca5.js",
+    "main.css": "/antony/static/css/main.adf7095b.css",
+    "main.js": "/antony/static/js/main.ae2cd2c1.js",
     "static/media/Gagalin.otf": "/antony/static/media/Gagalin.6bc229310548650a1f24.otf",
     "index.html": "/antony/index.html",
-    "main.a8d0edb5.css.map": "/antony/static/css/main.a8d0edb5.css.map",
-    "main.1e0b1ca5.js.map": "/antony/static/js/main.1e0b1ca5.js.map"
+    "main.adf7095b.css.map": "/antony/static/css/main.adf7095b.css.map",
+    "main.ae2cd2c1.js.map": "/antony/static/js/main.ae2cd2c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8d0edb5.css",
-    "static/js/main.1e0b1ca5.js"
+    "static/css/main.adf7095b.css",
+    "static/js/main.ae2cd2c1.js"
   ]
 }
