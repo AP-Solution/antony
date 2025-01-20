@@ -1,18 +1,26 @@
 {
   "files": {
-    "main.css": "/antony/static/css/main.7d69225f.css",
-    "main.js": "/antony/static/js/main.7e9ce1ff.js",
+    "main.css": "/antony/static/css/main.1f36aec8.css",
+    "main.js": "/antony/static/js/main.48702d22.js",
     "static/media/main-slide1.png": "/antony/static/media/main-slide1.269f782fe8ec945f0147.png",
     "static/media/main-slide2.png": "/antony/static/media/main-slide2.0c6951e7ff67c009d5de.png",
     "static/media/main-slide3.png": "/antony/static/media/main-slide3.21065624e9e5fbeafdb1.png",
+    "static/media/EM0001_7.jpg": "/antony/static/media/EM0001_7.97cce293d6734e35d9b4.jpg",
+    "static/media/EM0001_3.jpg": "/antony/static/media/EM0001_3.abfa8a8b4b643c6d7461.jpg",
+    "static/media/EM0001_1.jpg": "/antony/static/media/EM0001_1.4a45d0c1459e569e3a8f.jpg",
+    "static/media/EM0001_6.jpg": "/antony/static/media/EM0001_6.3605be0262310dd1e8ed.jpg",
+    "static/media/EM0001_2.jpg": "/antony/static/media/EM0001_2.9990e7bd943338b9a2d9.jpg",
+    "static/media/EM0001_4.jpg": "/antony/static/media/EM0001_4.00bca9df37921c00c455.jpg",
+    "static/media/EM0001_0.jpg": "/antony/static/media/EM0001_0.fc9062ac8e8384fed437.jpg",
+    "static/media/EM0001_5.jpg": "/antony/static/media/EM0001_5.28c9ce1fa3e4b697a58a.jpg",
     "static/media/Gagalin.otf": "/antony/static/media/Gagalin.6bc229310548650a1f24.otf",
     "static/media/logo-osten-relics.png": "/antony/static/media/logo-osten-relics.3e6649edd99102797fdd.png",
     "index.html": "/antony/index.html",
-    "main.7d69225f.css.map": "/antony/static/css/main.7d69225f.css.map",
-    "main.7e9ce1ff.js.map": "/antony/static/js/main.7e9ce1ff.js.map"
+    "main.1f36aec8.css.map": "/antony/static/css/main.1f36aec8.css.map",
+    "main.48702d22.js.map": "/antony/static/js/main.48702d22.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d69225f.css",
-    "static/js/main.7e9ce1ff.js"
+    "static/css/main.1f36aec8.css",
+    "static/js/main.48702d22.js"
   ]
 }
