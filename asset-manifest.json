@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/antony/static/css/main.f3c72868.css",
-    "main.js": "/antony/static/js/main.c5e950e0.js",
+    "main.css": "/antony/static/css/main.33c6409a.css",
+    "main.js": "/antony/static/js/main.416c065b.js",
     "static/media/Gagalin.otf": "/antony/static/media/Gagalin.6bc229310548650a1f24.otf",
+    "static/media/logo-osten-relics.png": "/antony/static/media/logo-osten-relics.3e6649edd99102797fdd.png",
     "index.html": "/antony/index.html",
-    "main.f3c72868.css.map": "/antony/static/css/main.f3c72868.css.map",
-    "main.c5e950e0.js.map": "/antony/static/js/main.c5e950e0.js.map"
+    "main.33c6409a.css.map": "/antony/static/css/main.33c6409a.css.map",
+    "main.416c065b.js.map": "/antony/static/js/main.416c065b.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3c72868.css",
-    "static/js/main.c5e950e0.js"
+    "static/css/main.33c6409a.css",
+    "static/js/main.416c065b.js"
   ]
 }
