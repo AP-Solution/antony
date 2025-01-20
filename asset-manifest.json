@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/antony/static/css/main.fdf364d3.css",
+    "main.css": "/antony/static/css/main.7d69225f.css",
     "main.js": "/antony/static/js/main.7e9ce1ff.js",
     "static/media/main-slide1.png": "/antony/static/media/main-slide1.269f782fe8ec945f0147.png",
     "static/media/main-slide2.png": "/antony/static/media/main-slide2.0c6951e7ff67c009d5de.png",
@@ -8,11 +8,11 @@
     "static/media/Gagalin.otf": "/antony/static/media/Gagalin.6bc229310548650a1f24.otf",
     "static/media/logo-osten-relics.png": "/antony/static/media/logo-osten-relics.3e6649edd99102797fdd.png",
     "index.html": "/antony/index.html",
-    "main.fdf364d3.css.map": "/antony/static/css/main.fdf364d3.css.map",
+    "main.7d69225f.css.map": "/antony/static/css/main.7d69225f.css.map",
     "main.7e9ce1ff.js.map": "/antony/static/js/main.7e9ce1ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdf364d3.css",
+    "static/css/main.7d69225f.css",
     "static/js/main.7e9ce1ff.js"
   ]
 }
